@@ -1,0 +1,11 @@
+- ¿Cuántas clases tiene el proyecto?
+tiene 6 clases
+¿En cuál clase se define el programa principal
+en la clase restaurante.
+¿Cuántos objetos de la clase Comida se crean en la
+claseprincipal?
+dos objetos.
+¿Cuántos y cuáles son los atributos de la clase Comida?
+4 atributos. que son: entrada, plato fuerte, comida y postre.
+¿Cuáles atributos de la clase Comida no son primitivos?
+ entrada, plato fuerte, comida y postre.
